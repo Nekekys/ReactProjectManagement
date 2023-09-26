@@ -1,0 +1,28 @@
+.project-add-modal{
+
+}
+.project-add-modal-form{
+  padding: 20px;
+}
+.project-add-modal-form input{
+  border: 2px solid #0079bf;
+  border-radius: 5px;
+  outline: none;
+  font-size: 1rem;
+  padding: 10px;
+}
+.project-add-modal-footer{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 15px;
+}
+.project-add-modal-footer button{
+  cursor: pointer;
+  border-radius: 5px;
+  outline: none;
+  background-color: #0079bf;
+  color: #fff;
+  border: none;
+  transition: 100ms ease;
+  padding: 10px;
+}
